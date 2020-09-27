@@ -1,1 +1,1 @@
-# Dist_Job_Scheduler
+# Distributed Job Scheduler - Asynchronous Workload Processing System.
